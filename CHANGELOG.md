@@ -1,3 +1,10 @@
+# [10.1.0](https://github.com/simonsmith/cypress-image-snapshot/compare/10.0.4...10.1.0) (2026-08-02)
+
+
+### Features
+
+* add Cypress.expose support ([38905ef](https://github.com/simonsmith/cypress-image-snapshot/commit/38905ef8a33b5d82d2049d9d99433c6436054453))
+
 ## [10.0.4](https://github.com/simonsmith/cypress-image-snapshot/compare/10.0.3...10.0.4) (2026-05-16)
 
 
