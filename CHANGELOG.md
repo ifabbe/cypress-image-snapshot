@@ -1,3 +1,10 @@
+## [10.1.1](https://github.com/simonsmith/cypress-image-snapshot/compare/10.1.0...10.1.1) (2026-08-02)
+
+
+### Bug Fixes
+
+* force release ([48e7ca1](https://github.com/simonsmith/cypress-image-snapshot/commit/48e7ca1210c714696f451238c7247854e86b01de))
+
 # [10.1.0](https://github.com/simonsmith/cypress-image-snapshot/compare/10.0.4...10.1.0) (2026-08-02)
 
 
